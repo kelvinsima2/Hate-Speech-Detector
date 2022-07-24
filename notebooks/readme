@@ -1,1 +1,4 @@
-
+- The main aim of this project is detecting subtle hate-speech in a sentence. The data used was obtained from Microsoft's TOXIGEN dataset.
+- The model aims to detect subtle hate against ethnicity, sexual orientation, gender and disability.
+- A convolutional neural network (CNN) model was used, and accuracies of 100% were achieved using the test data.
+- This model is still under development. More data is needed to detect crude hate speech.
